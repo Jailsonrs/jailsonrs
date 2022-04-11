@@ -1,4 +1,5 @@
 Olá, sou o Jailson!
+
 Trabalho com ciencia de dados desde 2018 e estudei estatística na Universidade Federal do Ceará.
 
 Um Breve resumo:
