@@ -9,6 +9,7 @@ Em uma de minhas últimas experiencias implementei modelos (LSTM) em Tensorflow 
 CTR de campanhas de marketing direcionadas para o Facebook, de forma a melhorar consideravelmente a taxa de captura de leads.
 
 Minha stack técnica inclui: R, Python, Scala e Spark, dentre outras tecnologias.
+
 Para orquestração de dados utilizo Airflow e trabalho com Jenkins para automatizar esteiras de DataOps.
 
 Sendo assim, sou apto a trabalhar em todas as etapas do desenvolvimento de modelos preditivos, desde a coleta, análise, estabelecimento e teste de hipóteses, formulação de modelos, produtização e monitoramento.
