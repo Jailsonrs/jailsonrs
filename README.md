@@ -2,9 +2,8 @@ Olá, sou o Jailson!
 
 Trabalho com ciencia de dados desde 2018 e estudei estatística na Universidade Federal do Ceará.
 
-Um Breve resumo:
 
-Tenho experiência na implementação de sistemas de recomendação, prototipagem de modelos para previsao de churn e escore.
+Tenho experiência com implementação de sistemas de recomendação, prototipagem de modelos para previsão de churn e escore.
 Em uma de minhas últimas experiencias implementei modelos (LSTM) em Tensorflow para prever a probabilidade de clique e consequentemente estimar o
 CTR de campanhas de marketing direcionadas para o Facebook, de forma a melhorar consideravelmente a taxa de captura de leads.
 
