@@ -1,18 +1,12 @@
-Olá, sou o Jailson!
+Hi, I'm Jailson!
 
-Trabalho com ciencia de dados desde 2018 e estudei estatística na Universidade Federal do Ceará.
+I am a data scientist with over 4 years of experience in the field, specializing in statistical analysis, machine learning, and data visualization. I completed my studies in statistics at the Federal University of Ceará and have since worked on implementing recommendation systems, churn and score prediction models, and deep learning models using technologies such as R, Python, Scala, and Spark.
 
+In my most recent role, I leveraged LSTM models in Tensorflow to predict the probability of clicks and estimate CTR for targeted marketing campaigns on Facebook. By doing so, I significantly improved the lead capture rate and helped drive better ROI for the campaigns.
 
-Tenho experiência com implementação de sistemas de recomendação, prototipagem de modelos para previsão de churn e escore.
-Em uma de minhas últimas experiencias implementei modelos (LSTM) em Tensorflow para prever a probabilidade de clique e consequentemente estimar o
-CTR de campanhas de marketing direcionadas para o Facebook, de forma a melhorar consideravelmente a taxa de captura de leads.
+I am experienced in the entire lifecycle of predictive model development, from data collection, analysis, hypothesis testing, model formulation, productization, to monitoring. To streamline my data workflows, I use Airflow for data orchestration and Jenkins for automating DataOps pipelines.
 
-Minha stack técnica inclui: R, Python, Scala e Spark, dentre outras tecnologias.
-
-Para orquestração de dados utilizo Airflow e trabalho com Jenkins para automatizar esteiras de DataOps.
-
-Sendo assim, sou apto a trabalhar em todas as etapas do desenvolvimento de modelos preditivos, desde a coleta, análise, estabelecimento e teste de hipóteses, formulação de modelos, produtização e monitoramento.
-
+If you're looking for someone who can help you with your data analysis, machine learning, or data visualization needs, feel free to reach out to me.
 
 
 
@@ -20,18 +14,3 @@ Sendo assim, sou apto a trabalhar em todas as etapas do desenvolvimento de model
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonrs&show_icons=true&theme=radical)](https://github.com/jailsonrs/github-readme-stats)
 
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/jailsonrodri848 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-8b2d8cda-23a3-4ece-9a20-1f4c158f9bca' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >jailsonrodri848</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I'm an experienced data scientist with expertise in machine learning, including recommendation systems, A/B testing, hypothesis testing, time series, regression models, and churn and score prediction. With a Statistics degree from Federal University of Ceará and four years of experience, I use Python, R, and SQL, along with Flask, Shiny, Streamlit, Airflow, and Jenkins/Weights and Biases. I can develop industrial-level Shiny apps and automate DataOps/MLOps workflows, including all stages of predictive model development. I'm passionate about taking on challenging projects to deliver value while</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-8b2d8cda-23a3-4ece-9a20-1f4c158f9bca' src='https://widgets.fiverr.com/api/v1/seller/jailsonrodri848?widget_id=8b2d8cda-23a3-4ece-9a20-1f4c158f9bca' data-config='{"category_name":"\n                                    Data\n\n                            "}' async='true' defer='true'></script>
