@@ -1,6 +1,6 @@
 Hi, I'm Jailson!
 
-I am a data scientist with over 4 years of experience in the field, specializing in statistical analysis, machine learning, and data visualization. I completed my studies in statistics at the Federal University of Ceará and have since worked on implementing recommendation systems, churn and score prediction models, and deep learning models using technologies such as R, Python, Scala, and Spark.
+I am a data scientist with over 5 years of experience in the field, specializing in statistical analysis, machine learning, and data visualization. I completed my studies in statistics at the Federal University of Ceará and have since worked on implementing recommendation systems, churn and score prediction models, and deep learning models using technologies such as R, Python, Scala, and Spark.
 
 In my most recent role, I leveraged LSTM models in Tensorflow to predict the probability of clicks and estimate CTR for targeted marketing campaigns on Facebook. By doing so, I significantly improved the lead capture rate and helped drive better ROI for the campaigns.
 
