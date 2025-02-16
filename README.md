@@ -114,8 +114,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 <div align="center">  
  
-[<span><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonrs&theme=radical&layout=compact" height=130/></span>
-<span><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jailsonrs&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)</span>
+[<span><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonrs&theme=radical&layout=compact" height=130/></span>
+<span><img  src="https://github-readme-stats.vercel.app/api?username=Jailsonrs&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)</span>
  
 </div>
 <!-- ########################################## 分割 ########################################## -->
