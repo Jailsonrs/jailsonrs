@@ -185,10 +185,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </table>
 
 ![Alt](https://repobeats.axiom.co/api/embed/766b151471319528aa28a044a29a5acf1b5f5859.svg "Repobeats analytics image")
-
----
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/icon.png" /></div>
 </div>
