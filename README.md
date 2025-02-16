@@ -124,7 +124,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 <br/>  
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonrs&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Jailsonrs&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonrs&show_icons=true&theme=radical)](https://github.com/jailsonrs/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
@@ -133,7 +133,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 <div align="center" >
 
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=AuroraMaster&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=Jailsonrs&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 </div>
 
