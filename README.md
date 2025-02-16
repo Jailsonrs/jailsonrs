@@ -1,4 +1,4 @@
-Hi, I'm Jailson!
+### _Hi there 👋, I'm Jailson._
 
 I am a data scientist with over 5 years of experience in the field, specializing in statistical analysis, machine learning, and data visualization. I completed my studies in statistics at the Federal University of Ceará and have since worked on implementing recommendation systems, churn and score prediction models, and deep learning models using technologies such as R, Python, Scala, and Spark.
 
@@ -14,7 +14,6 @@ If you're looking for someone who can help you with your data analysis, machine 
 
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### _Hi there 👋, I'm Jailson._
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
