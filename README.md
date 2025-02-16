@@ -1,5 +1,5 @@
 ### _Hi there 👋, I'm Jailson._
-I'm a data scientist with 5+ years of experience in statistical analysis, ML, and data visualization. I’ve built recommendation systems, churn models, and deep learning solutions using R, Python, and Spark. Skilled in predictive modeling, Airflow, and Jenkins. Let’s connect!
+I'm a data scientist with 7+ years of experience in statistical analysis, ML, and data visualization. I’ve built recommendation systems, churn models, and deep learning solutions using R, Python, and Spark. Skilled in predictive modeling, Airflow, and Jenkins. Let’s connect!
 
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
