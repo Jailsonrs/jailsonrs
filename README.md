@@ -125,7 +125,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonrs&show_icons=true&theme=radical)](https://github.com/jailsonrs/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
