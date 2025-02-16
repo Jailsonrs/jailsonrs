@@ -5,9 +5,9 @@ I'm a data scientist with 5+ years of experience in statistical analysis, ML, an
 
 
 I love to talk on trending ⚡ technology ⚡
-- Connect with me here:
- - [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jailsonrodriguez.souza@gmail.com)
- - [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/AuroraMaster/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
+Connect with me here:
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jailsonrodriguez.souza@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/Jailsonrs/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 #### - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
