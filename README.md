@@ -41,10 +41,10 @@ I love to talk on trending ⚡ technology ⚡
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://blog.i-xiao.space/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
 
-#### - 🌱 I’m currently learning:
-  - ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-  - ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-  - [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
+#### 🌱 I’m currently learning: 
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMaster/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
