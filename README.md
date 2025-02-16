@@ -125,7 +125,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonrs&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Jailsonrs&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonrs&show_icons=true&theme=radical)](https://github.com/jailsonrs/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
@@ -178,9 +177,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AuroraMaster&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AuroraMaster&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuroraMaster&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jailsonrs&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jailsonrs&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jailsonrs&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
