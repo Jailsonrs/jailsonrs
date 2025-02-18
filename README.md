@@ -178,12 +178,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/AuroraMaster/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
   <img src = "https://repobeats.axiom.co/api/embed/766b151471319528aa28a044a29a5acf1b5f5859.svg" width="120%">
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/icon.png" /></div>
